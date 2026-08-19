@@ -3,16 +3,17 @@
 ```mermaid
 mindmap
         DISA (Four Color classifiction)
-         Red
-          Dominant 
-          Leaders
+         Yellow
+          Cheerful
          Green 
           Moderates
           Majority population
          Blue
           Perfectionist
-         Yellow
-          Cheerful
+         Red
+          Dominant 
+          Leaders
+         
 
 ```
 
