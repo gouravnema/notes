@@ -2,4 +2,4 @@ theme: jekyll-theme-primer
 title: Notes
 markdown: kramdown
 plugins:
-	- jekyll-feed
+  - jekyll-feed
