@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading_notes/Surrounded by idiots.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Surrounded by idiots"
+              "title": "README.md"
             }
           }
         ],
@@ -212,9 +212,10 @@
   },
   "active": "06a7b5b3c4851f91",
   "lastOpenFiles": [
+    "reading_notes/Surrounded by idiots.md",
+    "README.md.md",
     "index.md.md",
     "().md",
-    "reading_notes/Surrounded by idiots.md",
     "Untitled.base",
     "Welcome.md",
     "reading_notes",
