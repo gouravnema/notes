@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading_notes/Surrounded by idiots.md",
+                "file": "reading_notes/surrounded_by_idiots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Surrounded by idiots"
+              "title": "surrounded_by_idiots"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "reading_notes/surrounded_by_idiots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "surrounded_by_idiots"
             }
           }
         ],
@@ -213,7 +213,8 @@
   "active": "06a7b5b3c4851f91",
   "lastOpenFiles": [
     "index.md",
-    "reading_notes/Surrounded by idiots.md",
+    "reading_notes/surrounded_by_idiots.md",
+    "reading_notes/Surrounded.md",
     "README.md.md",
     "index.md.md",
     "().md",
