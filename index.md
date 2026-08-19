@@ -6,6 +6,6 @@ This site is collection of my published notes. Here I will be logging and sharin
 ##Reading Notes
 List of my understanding from the books etc, I am reading/read. 
 
-1.  [Surrounded by idiots](reading_notes/surrounded_by_idiots) **By Thomas Erikson**
+1.  [Surrounded by idiots](reading_notes/surrounded_by_idiots) *By Thomas Erikson*
 
 
