@@ -1,3 +1,5 @@
+[<- Back to Index](../index.md)
+
 # Surrounded By Idiots : *Thomas Erikson*
 
 Book is about understanding peoples' behaviour. Mainly classify behaviour in four colours. Book says that people are often mix of few colours with some colour is dominant. 
