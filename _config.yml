@@ -1,1 +1,5 @@
-theme:Architect
+theme: jekyll-theme-primer
+title: Notes
+markdown: kramdown
+plugins:
+	- jekyll-feed
