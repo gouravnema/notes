@@ -2,7 +2,7 @@
 
 # Surrounded By Idiots : *Thomas Erikson*
 #### Summary 
-```markdown
+
 # Surrounded by Idiots: Summary
 
 **Surrounded by Idiots** by Thomas Erikson is a practical guide to understanding human behavior and personality types using the DISC model. The book combines personality psychology with accessible humor and real-world examples to help readers navigate workplace dynamics and personal relationships.
@@ -42,7 +42,9 @@ The book's main strength is its accessibility. Rather than dense psychological t
 ## Conclusion
 
 **Surrounded by Idiots** suggests that most people aren't actually idiots; they simply operate from different priorities and perspectives. By recognizing personality differences through the DISC model, understanding others' motivations, and adapting communication accordingly, you can significantly improve relationships and reduce conflict at work and home. The book empowers readers to become more emotionally intelligent and effective communicators by seeing differences not as defects but as natural variation in human personality.
-```
+
+--------
+
 
 Book is about understanding peoples' behaviour. Mainly classify behaviour in four colours. Book says that people are often mix of few colours with some colour is dominant. 
 This book also talks about which colour trait gels well with which colour.
