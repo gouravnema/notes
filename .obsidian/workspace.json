@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solar Installation.md",
+                "file": "solar_installation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solar Installation"
+              "title": "solar_installation"
             }
           }
         ],
@@ -215,9 +215,11 @@
   "active": "b44376114c3dadf6",
   "lastOpenFiles": [
     "index.md",
-    "Solar Installation.md",
-    "2026-08-19.md",
+    "solar_installation.md",
+    "Solar.md",
     "reading_notes/surrounded_by_idiots.md",
+    "2026-08-19.md",
+    "README.md.md",
     "_includes/footer.html",
     "_layouts/default.html",
     "_layouts",
@@ -226,7 +228,6 @@
     "_includes/head_custom.html",
     "_includes",
     "reading_notes/Surrounded.md",
-    "README.md.md",
     "index.md.md",
     "().md",
     "Untitled.base",
