@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solar_installation.md",
+                "file": "_posts/2026-10-16-starting-with-jeykell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "solar_installation"
+              "title": "2026-10-16-starting-with-jeykell"
             }
           }
         ],
@@ -215,11 +215,14 @@
   "active": "b44376114c3dadf6",
   "lastOpenFiles": [
     "index.md",
+    "_posts/2026-10-16-starting-with-jeykell.md",
+    "_posts",
+    "Untitled.md",
+    "2026-08-19.md",
+    "README.md.md",
     "solar_installation.md",
     "Solar.md",
     "reading_notes/surrounded_by_idiots.md",
-    "2026-08-19.md",
-    "README.md.md",
     "_includes/footer.html",
     "_layouts/default.html",
     "_layouts",
@@ -232,7 +235,6 @@
     "().md",
     "Untitled.base",
     "Welcome.md",
-    "reading_notes",
-    "ideas"
+    "reading_notes"
   ]
 }
