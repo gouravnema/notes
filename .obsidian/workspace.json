@@ -35,7 +35,8 @@
               "title": "solar_installation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +212,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "86e0fe4113a9425d",
+  "active": "b44376114c3dadf6",
   "lastOpenFiles": [
-    "solar_installation.md",
     "index.md",
+    "solar_installation.md",
     "Solar.md",
     "reading_notes/surrounded_by_idiots.md",
     "2026-08-19.md",

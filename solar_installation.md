@@ -1,4 +1,6 @@
-3kW Residential On-Grid Solar Installation
+# 3kW Residential On-Grid Solar Installation
+--------
+
 
 **Location:** Sagar, Madhya Pradesh  
 **Roof Profile:** Flat Concrete Roof | Zero Shadow Obstruction  
