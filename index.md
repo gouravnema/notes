@@ -3,9 +3,9 @@
 This site is collection of my published notes. Here I will be logging and sharing my learning and knowledge around things/topics of my interests. 
 
 
-
+## Posts
 {% for post in site.posts %}
-- [{{ post.title }}]({{/notes/post.url }}) - *{{ post.date | date: "%B %d, %Y" }}* {{ post.excerpt | strip_html | truncatewords: 30 }} 
+- [{{ post.title }}](/notes/{{post.url }}) - *{{ post.date | date: "%B %d, %Y" }}* {{ post.excerpt | strip_html | truncatewords: 30 }} 
 {% endfor %}
 
 

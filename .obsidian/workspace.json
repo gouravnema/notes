@@ -11,10 +11,14 @@
             "id": "7acb53ae2ac9d541",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -193,13 +197,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "58f2613d6eb1c91b",
+  "active": "7acb53ae2ac9d541",
   "lastOpenFiles": [
-    "index.md",
+    "_posts/2026-10-16-starting-with-jeykell.md",
     "{{/notes/post.url.md",
+    "index.md",
     "{{/notes",
     "{{",
-    "_posts/2026-10-16-starting-with-jeykell.md",
     "{{.md",
     "_posts",
     "Untitled.md",
