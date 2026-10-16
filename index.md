@@ -5,7 +5,7 @@ This site is collection of my published notes. Here I will be logging and sharin
 
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) - *{{ post.date | date: "%B %d, %Y" }}* {{ post.excerpt | strip_html | truncatewords: 30 }} 
+- [{{ post.title }}]({{/notes/post.url }}) - *{{ post.date | date: "%B %d, %Y" }}* {{ post.excerpt | strip_html | truncatewords: 30 }} 
 {% endfor %}
 
 
