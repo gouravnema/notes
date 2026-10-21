@@ -31,3 +31,5 @@
 - **No Age-Locking:** Optima Secure is inherently one of the most expensive base policies on the market. Furthermore, premiums are tied to age brackets. As you cross standard age thresholds (e.g., 36, 41, 46), the base premium will aggressively spike, independent of standard annual medical inflation hikes.
     
 - **Modular Upselling:** The marketing heavily promotes features like full Out-Patient (OPD) coverage (Well-Being/Health Wallet), global coverage (Optima Secure Global), and day-1 chronic care (ABCD). Legally, none of these are guaranteed in the base contract—they are modular add-ons that rapidly inflate an already high premium.
+
+https://customer-portal-assets.hdfcergo.com/documents/PolicyWordings_myOptimaSecure-76673175551.pdf
