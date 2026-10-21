@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "341b8bd0b5e21cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reading_notes/surrounded_by_idiots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "surrounded_by_idiots"
+            }
+          },
+          {
+            "id": "eee880d341a892f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "health_cover.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "health_cover"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,21 +227,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7acb53ae2ac9d541",
+  "active": "eee880d341a892f2",
   "lastOpenFiles": [
+    "reading_notes/surrounded_by_idiots.md",
+    "health_cover.md",
+    "Project.md",
+    "index.md",
     "_posts/2026-10-16-starting-with-jeykell.md",
     "{{/notes/post.url.md",
-    "index.md",
     "{{/notes",
     "{{",
     "{{.md",
     "_posts",
-    "Untitled.md",
     "2026-08-19.md",
     "README.md.md",
     "solar_installation.md",
     "Solar.md",
-    "reading_notes/surrounded_by_idiots.md",
     "_includes/footer.html",
     "_layouts/default.html",
     "_layouts",
