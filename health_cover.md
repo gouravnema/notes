@@ -1,3 +1,4 @@
+Policy Wording : [Click Here ](https://customer-portal-assets.hdfcergo.com/documents/PolicyWordings_myOptimaSecure-76673175551.pdf)for PDF
 ## 1. Waiting Periods & Hard Exclusions
 
 - **36-Month Pre-Existing Disease (PED) Lock-In:** Standard pre-existing conditions are excluded for a full 3 years. Unless you purchase the specific "ABCD Chronic Care" rider, pre-existing conditions like hypertension, diabetes, or asthma are strictly out-of-bounds for 36 months. Many competing premium plans have reduced this lock-in to 24 months.
@@ -32,4 +33,5 @@
     
 - **Modular Upselling:** The marketing heavily promotes features like full Out-Patient (OPD) coverage (Well-Being/Health Wallet), global coverage (Optima Secure Global), and day-1 chronic care (ABCD). Legally, none of these are guaranteed in the base contract—they are modular add-ons that rapidly inflate an already high premium.
 
-https://customer-portal-assets.hdfcergo.com/documents/PolicyWordings_myOptimaSecure-76673175551.pdf
+
+
