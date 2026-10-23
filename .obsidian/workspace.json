@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protein_combos_lacto_ovo_diets.md",
+                "file": "near_zero_deamination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protein_combos_lacto_ovo_diets"
+              "title": "near_zero_deamination"
             }
           }
         ],
@@ -229,8 +229,9 @@
   },
   "active": "eee880d341a892f2",
   "lastOpenFiles": [
-    "health_cover.md",
     "protein_combos_lacto_ovo_diets.md",
+    "near_zero_deamination.md",
+    "health_cover.md",
     "reading_notes/surrounded_by_idiots.md",
     "Project.md",
     "index.md",
