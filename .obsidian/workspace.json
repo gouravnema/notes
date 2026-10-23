@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "health_cover.md",
+                "file": "protein_combos_lacto_ovo_diets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "health_cover"
+              "title": "protein_combos_lacto_ovo_diets"
             }
           }
         ],
@@ -229,8 +229,9 @@
   },
   "active": "eee880d341a892f2",
   "lastOpenFiles": [
-    "reading_notes/surrounded_by_idiots.md",
     "health_cover.md",
+    "protein_combos_lacto_ovo_diets.md",
+    "reading_notes/surrounded_by_idiots.md",
     "Project.md",
     "index.md",
     "_posts/2026-10-16-starting-with-jeykell.md",
