@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas.md.md",
+                "file": "ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ideas.md"
+              "title": "ideas"
             }
           },
           {
@@ -227,10 +227,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "58f2613d6eb1c91b",
+  "active": "341b8bd0b5e21cba",
   "lastOpenFiles": [
     "ideas/buridans_ass.md",
-    "ideas.md.md",
+    "ideas.md",
     "health_cover.md",
     "Untitled.md",
     "buridians_ass.md",
