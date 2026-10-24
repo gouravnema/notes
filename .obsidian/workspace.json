@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas.md",
+                "file": "ideas/buridans_ass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ideas"
+              "title": "buridans_ass"
             }
           },
           {
@@ -229,15 +229,15 @@
   },
   "active": "341b8bd0b5e21cba",
   "lastOpenFiles": [
-    "ideas/buridans_ass.md",
     "ideas.md",
+    "ideas/buridans_ass.md",
+    "index.md",
+    "reading_notes/surrounded_by_idiots.md",
     "health_cover.md",
+    "deamination.md",
     "Untitled.md",
     "buridians_ass.md",
-    "reading_notes/surrounded_by_idiots.md",
     "ideas/buridians_ass.md",
-    "index.md",
-    "deamination.md",
     "protein_combos_lacto_ovo_diets.md",
     "Project.md",
     "_posts/2026-10-16-starting-with-jeykell.md",
