@@ -1,4 +1,4 @@
-[<- Back to Index](../ideas/index.md)
+[<- Back to Index](ideas.md.md)
 
 
 **Buridan’s Ass** is a famous philosophical thought experiment about ==free will, rational choice, and the paralysis of indecision==. [[1](https://en.wikipedia.org/wiki/Buridan%27s_ass), [2](https://www.instagram.com/p/DONMq8jAabM/), [3](https://www.facebook.com/philosophyminis/videos/buridan-being-an-assdont-let-perfect-be-the-enemy-of-good/1355208596222070/)]
