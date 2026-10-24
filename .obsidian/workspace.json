@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading_notes/surrounded_by_idiots.md",
+                "file": "ideas/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "surrounded_by_idiots"
+              "title": "index"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deamination.md",
+                "file": "ideas/buridans_ass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "deamination"
+              "title": "buridans_ass"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,14 +227,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "eee880d341a892f2",
+  "active": "341b8bd0b5e21cba",
   "lastOpenFiles": [
-    "protein_combos_lacto_ovo_diets.md",
-    "deamination.md",
+    "ideas/buridans_ass.md",
+    "ideas/index.md",
     "health_cover.md",
+    "Untitled.md",
+    "buridians_ass.md",
     "reading_notes/surrounded_by_idiots.md",
-    "Project.md",
+    "ideas/buridians_ass.md",
     "index.md",
+    "deamination.md",
+    "protein_combos_lacto_ovo_diets.md",
+    "Project.md",
     "_posts/2026-10-16-starting-with-jeykell.md",
     "{{/notes/post.url.md",
     "{{/notes",
